@@ -1,5 +1,3 @@
-# netflix-movie-trends
-📊 Data analysis and visualization of Netflix movie durations from 2011 to 2020 using Python, Pandas, and Matplotlib.
 # 📊 Netflix Movie Duration Analysis (2011–2020)
 
 This project explores how the average duration of movies on Netflix has changed over time, specifically from **2011 to 2020**. Using **Python**, **Pandas**, and **Matplotlib**, we extract insights and visualize trends in watch time.
